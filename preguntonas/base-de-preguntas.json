@@ -1,0 +1,53 @@
+[{
+    "categoria": "Filosofia",
+    "pregunta": "¿Qui es Foucault?",
+    "respuesta": "Un filósofo exquisito",
+    "incorrecta1": "albañil",
+    "incorrecta2": "conserje",
+    "incorrecta3": "kiosquero",
+    "imagen": "https://acortar.link/JDCTwX",
+    "objectFit": "cover"
+},
+{
+    "categoria": "Mas Filosofia",
+    "pregunta": "¿Foucault antes de filósofo era un..?",
+    "respuesta": "Profesor en universidades",
+    "incorrecta1": "Profesor en colegios",
+    "incorrecta2": "Profesor en fuerzas armadas",
+    "incorrecta3": "dictador",
+    "imagen": "https://acortar.link/JDCTwX",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "Adivina un poquito... si, es Filosofia",
+    "pregunta": "¿Cuando fallecio Foucault?",
+    "respuesta": "25 de junio de 1984, París, Francia",
+    "incorrecta1": "24 de julio de 1986, París, Francia",
+    "incorrecta2": "32 de Febrero de 1980, París, Francia",
+    "incorrecta3": "20 de julio de 1982, Francia, Paris",
+    "imagen": "https://acortar.link/JDCTwX",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "Te lo vuelvo a repetir o ya te la sabes?",
+    "pregunta": "¿Cuando nació Foucault?",
+    "respuesta": "15 de octubre de 1926, Poitiers, Francia",
+    "incorrecta1": "16 de octubre de 1926, Poitiers, Francia",
+    "incorrecta2": "14 de octubre de 1926, Poitiers, Francia",
+    "incorrecta3": "1 de octubre de 1926, Poitiers, Francia",
+    "imagen": "https://acortar.link/JDCTwX",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "Fisica... mentira es Filosofia",
+    "pregunta": "¿Quienes eran los padres de Foucault?",
+    "respuesta": " Anne Malapert, Paul Foucault",
+    "incorrecta1": "Ana Aperta, Pablo Focault",
+    "incorrecta2": "Marisa Perta, Pault Logan Foucault",
+    "incorrecta3": "Hana Apert, Persi Foucault",
+    "imagen": "https://acortar.link/JDCTwX",
+    "objectFit": "cover"
+}]
